@@ -8,6 +8,15 @@ body {
     font-family: 'open sans';
 }
 
+.navbar-links {
+    font-family: 'DM Sans', sans-serif;
+    padding: 0 12px;
+}
+
+.title-tick4you {
+    font-family: 'Expletus Sans', cursive;
+}
+
 .contenedor {
     padding: 60px 0;
     width: 90%;
